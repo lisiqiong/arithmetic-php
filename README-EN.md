@@ -47,6 +47,8 @@
     │         ├──  ColorBricks.php        
     │         ├──  GetCattle.php          
     │         ├──  OnlyNumbers.php        
+    │         ├──  Interval.php        
+    │         ├──  Encryption.php        
     │         └──  BigSmallReplace.php    
     │     
     ├──LICENSE 

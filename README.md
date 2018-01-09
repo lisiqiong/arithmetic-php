@@ -30,6 +30,7 @@
     │    │    ├── MBaseSort.php           基数排序 MSD
     │    │    ├── LBaseSort.php           基数排序 LSD
     │    │    ├── QuickSort.php           快速排序
+    │    │    ├── ShuttleSort.php         飞梭排序
     │    │    ├── ShellSort.php           希尔排序
     │    │    ├── MergeSort.php           归并排序
     │    │    ├── InsertSort.php          插入排序
@@ -60,6 +61,8 @@
     │         ├──  GetCattle.php          牛年求牛
     │         ├──  OnlyNumbers.php        求唯一数
     │         ├──  PokerGames.php         洗扑克牌
+    │         ├──  Interval.php           抽奖区间算法
+    │         ├──  Encryption.php         对称加密算法
     │         └──  BigSmallReplace.php    Hello World 输出 Olleh Dlrow
     │     
     ├──LICENSE
